@@ -1,0 +1,88 @@
+body{
+    margin-top: -10px;
+    margin-left: -10px;
+    margin-right: -10px;
+    flex-wrap: wrap;
+    flex-direction: column-reverse;
+    background-image: url(https://www.letemsvetemapplem.eu/wp-content/uploads/2022/03/iPhone-15-koncept-2-1536x864.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.navbar ul{
+    text-align: center;
+}
+
+.navbar ul li{
+    flex-flow: wrap;
+    display: inline-block;
+    margin: 15px;
+    text-justify: auto;
+}
+.navbar ul li a{
+    text-decoration: none;
+    background-color: rgb(21, 21, 21);
+    color: darkgray;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-left: 20px;
+    
+}
+.navbar{
+    background-color: rgb(21, 21, 21);
+}
+.picture{
+   width:100%;
+   height: 100%;
+   justify-content: center;
+}
+
+.text h1{
+    color: whitesmoke;
+    text-align: center;
+    font-size: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 550;
+    height: 160%;
+}
+.text h2{
+    color: whitesmoke;
+    text-align: center;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    margin-top: -50px;
+}
+.text ul{
+    text-align: center;
+    justify-content: center;
+}
+
+.text ul li{
+    flex-flow: wrap;
+    display: inline-block;
+    margin: 15px;
+    text-justify: auto;
+}
+.text ul li a{
+    text-decoration: none;
+    color: rgb(0, 119, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    
+    
+}
+
+.navbar .logo nav ul li a .Apple-logo{
+    width: 30px;
+    height: auto;
+}
+
+.navbar .logo nav ul li a .oip{
+    width: 30px;
+    height: auto;
+}
+
+.navbar .logo nav ul li a .images{
+    width: 30px;
+    height: auto;
+}
